@@ -1,12 +1,3 @@
-**Customer-Service-Chatbot-Query-Classification**
-
-## Short Description (2 sentences)
-Machine learning system for automatically categorizing banking customer service queries into 10 issue types with 94.7% accuracy using Linear SVM and TF-IDF features. Comprehensive comparison of 13 approaches including traditional ML (SVM, Logistic Regression, Naive Bayes) and deep learning (LSTM, BiLSTM, CNN) with production-ready implementation.
-
----
-
-# README.md
-````markdown
 # Customer Service Chatbot Query Classification
 
 Automated classification of banking customer service queries using machine learning. Achieves 94.7% accuracy across 10 issue categories.
