@@ -87,8 +87,3 @@ Card Payment Fee | Direct Debit Not Recognised | Balance Not Updated (Cheque) | 
 
 
 ⭐ **Star this repo if you found it helpful!**
-````
-
----
-
-**Shortened from ~250 to ~150 lines** while keeping all essential information!
