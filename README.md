@@ -84,15 +84,7 @@ Card Payment Fee | Direct Debit Not Recognised | Balance Not Updated (Cheque) | 
 4. Target underperforming classes (7, 9)
 5. Continuous learning pipeline
 
-## 📄 License
 
-MIT License
-
-## 👤 Author
-
-**Your Name** - [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
-
----
 
 ⭐ **Star this repo if you found it helpful!**
 ````
