@@ -31,19 +31,6 @@ Machine learning system that automatically routes customer queries to appropriat
 - **NLP:** TF-IDF, word embeddings
 - **Tools:** Python 3.8+, pandas, numpy, matplotlib
 
-## 🚀 Quick Start
-```bash
-# Clone and install
-git clone https://github.com/yourusername/Customer-Service-Chatbot-Query-Classification.git
-cd Customer-Service-Chatbot-Query-Classification
-pip install -r requirements.txt
-
-# Run analysis
-python notebooks/01_eda_analysis.py          # Data exploration
-python notebooks/04_comprehensive_comparison.py  # Compare all models
-python notebooks/05_deep_learning.py         # Deep learning (optional)
-```
-
 ## 📊 Key Findings
 
 ### Why Linear SVM Won
