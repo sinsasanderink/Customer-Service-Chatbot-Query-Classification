@@ -1,6 +1,3 @@
-# GitHub Repository Details
-
-## Title
 **Customer-Service-Chatbot-Query-Classification**
 
 ## Short Description (2 sentences)
